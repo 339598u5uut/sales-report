@@ -13,3 +13,12 @@
 
 https://user-images.githubusercontent.com/90867396/210117816-a095493b-5b08-44e6-9893-737fbb24e5e5.mp4
 
+### Установить локально:
+
+* git clone https://github.com/339598u5uut/sales-report.git
+* cd report
+* npm i
+* npm start
+
+
+### Getting Started with Create React App
